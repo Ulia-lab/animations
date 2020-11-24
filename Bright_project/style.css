@@ -26,17 +26,6 @@ html, body {
     }
   }
   
-  .header__wrapper {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 70px;
-    margin: 0 auto;
-    font-size: 20px;
-    letter-spacing: 3px;
-    font-family: 'Playfair Display', serif;
-  }
-  
   .menu__item {
     margin-right: 10px;
     color: black;
@@ -48,7 +37,7 @@ html, body {
   }
   
   .keyframes {
-    background-image: linear-gradient(to top, #F3A738 0%, #fff 100%);
+    background-image: linear-gradient(to top, #fcd555 0%, #fff 100%);
   }
  
   .keyframes__wrapper {
@@ -59,7 +48,7 @@ html, body {
   
   .title {
     margin: 0;
-    padding-top: 20px;
+    padding-top: 50px;
     line-height: 56px;
     font-size: 40px;
     
@@ -74,7 +63,7 @@ html, body {
   }
 
   .border {
-    height: 5px;
+    height: 4px;
   }
 
   .border_color_white {
